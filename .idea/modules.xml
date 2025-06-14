@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections_Demo/Collections_Demo.iml" filepath="$PROJECT_DIR$/Collections_Demo/Collections_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File Handling/File Handling.iml" filepath="$PROJECT_DIR$/File Handling/File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC_DEMO/JDBC_DEMO.iml" filepath="$PROJECT_DIR$/JDBC_DEMO/JDBC_DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads_Demo/Threads_Demo.iml" filepath="$PROJECT_DIR$/Threads_Demo/Threads_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project_cts.iml" filepath="$PROJECT_DIR$/java_project_cts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmodule1/testmodule1.iml" filepath="$PROJECT_DIR$/testmodule1/testmodule1.iml" />
+    </modules>
+  </component>
+</project>
